@@ -1,1 +1,1 @@
-# smarter_redux
+# Smarter Redux
